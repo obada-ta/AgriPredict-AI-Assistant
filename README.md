@@ -1,3 +1,5 @@
+
+
 # 🌾 AgriPredict: AI-Driven Agricultural & Social Platform
 
 > An end-to-end Full-Stack AI platform combining 8 specialized AI engines for smart farming with a real-time social community for plant enthusiasts and farmers.
